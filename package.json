@@ -1,0 +1,14 @@
+{
+  "name": "bowling_js",
+  "version": "1.0.0",
+  "description": "bowling app with javascript and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec/ --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
